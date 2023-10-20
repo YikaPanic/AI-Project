@@ -1,1 +1,1 @@
-# AI-roject
+# COMP30024-ProjectB
